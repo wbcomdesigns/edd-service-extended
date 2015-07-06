@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+.add_user_comment{
+	width:96%;
+	border:1px solid #e3e3e3;
+	background:#F4F4F4;
+	padding:2%;
+}
+#add_user_comment.add_user_comment h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+#add_user_comment.add_user_comment textarea{
+	background:#fff;
+	width:100%;
+}
+#add_user_comment.add_user_comment #edd_files_names,
+#add_user_comment.add_user_comment #edd_files_names label{
+	width:100%;
+	float:left;
+}
+#add_user_comment.add_user_comment #edd_files_names label{
+	background:#FFDCB9;
+	margin-top:5px;
+}
+label.edd_message_attachment,input[type="submit"].submit-msg{
+	background-color: #333;
+    border: 0 none;
+    color: #fff;
+    cursor: pointer;
+	padding:5px;
+	margin-top:5px;
+	text-transform:uppercase;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: initial;
+}
+input[type="submit"].submit-msg{
+	float:right;
+}
+label.edd_message_attachment{
+	float:left;
+}
+.edd-messages-list{
+	clear:both;
+	width:100%;
+	padding-top:5px;
+}
+.edd-messages-list .each-edd-message{
+	border:1px solid #e3e3e3;
+	box-sizing:border-box;
+	box-shadow:0px 0px 4px 3px #fff;
+	margin-top:10px;
+	background-color:#f7fff4;
+	padding:2%;
+}
+.each-edd-message .each-edd-message-avatar{
+	float:left;
+	width:10%;
+}
+.each-edd-message .each-edd-message-avatar img{
+}
+.each-edd-message .each-edd-message-right-cont{
+	width:85%;
+	float:right;
+}
+.each-edd-message .each-edd-message-avatar .name{
+	margin-left:2%;
+	font-weight:bold;
+	text-transform:capitalize;
+}
+.each-edd-message-attach{
+	clear:both;
+}
+	
+.each-edd-message-attach a{
+	margin-right:1%;
+	border-bottom:1px solid;
+}
+.each-edd-message-attach .attach-head{
+	font-size: 1.0em;
+    margin-bottom: 5px;
+    margin-top: 5px;
+	font-weight:bold;
+}
+.edd-messages-list.edd-close-thread-cont {
+  padding: 10px;
+  clear: both;
+}
+.edd-messages-list a.edd-close-thread:hover {
+  color: #fff;
+}
+.edd-messages-list a.edd-close-thread {
+  background: #ed6a31;
+  background: -webkit-linear-gradient(top, #ed6a31 0%, #e55627 100%);
+  background: linear-gradient(to bottom, #ed6a31 0%, #e55627 100%);
+  outline: none;
+  border: 0 none;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px;
+  margin-top: 5px;
+  text-transform: uppercase;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: initial;
+  float: right;
+  clear: both;
+}
+
+#dialog-form{
+	display:none;
+}
+#dialog-form fieldset{
+	width:100%;
+}
