@@ -1,4 +1,4 @@
-=== Easy Digital Download Service Extended ===
+=== EDD Service Extended ===
 Contributors: vapvarun
 Tags: easy digital downloads, digital downloads, e-downloads, edd, services, e-commerce, ecommerce, vapvarun
 Requires at least: 3.0.1
@@ -11,22 +11,22 @@ Easy Digital Download Service Extended adds message section in the user dashboar
 
 
 == Description ==
-Activate Easy Digital Download Service Extended from your Plugins page (require Easy Digital Downloads plugin) if required plug is not installed and activated, Easy Digital Download Service Extended will not get activated.
+Activate EDD Service Extended from your Plugins page (require Easy Digital Downloads plugin) if required plug is not installed and activated, Easy Digital Download Service Extended will not get activated.
 
 
 
 == Installation ==
 From your WordPress dashboard
 Visit \'Plugins > Add New\'
-Search for ‘Easy Digital Download Service Extended’
-Activate Easy Digital Download Service Extended from your Plugins page (require Easy Digital Downloads plugin) if required plug is not installed and activated, Easy Digital Download Service Extended will not get activated.
-Use shortcode [add_user_comment_edd] in the page ‘Payment confirmation’ already created by the Easy Digital Downloads plugin.
+Search for â€˜EDD Service Extendedâ€™
+Activate EDD Service Extended from your Plugins page (require Easy Digital Downloads plugin) if required plug is not installed and activated, Easy Digital Download Service Extended will not get activated.
+Use shortcode [add_user_comment_edd] in the page â€˜Payment confirmationâ€™ already created by the Easy Digital Downloads plugin.
 
 From WordPress.org
-Download ‘Easy Digital Download Service Extended’.
+Download â€˜EDD Service Extendedâ€™.
 Upload the \'edd-service-extended\' directory to your \'/wp-content/plugins/\' directory, using your favorite method (ftp, sftp, scp, etc...).
-Activate Easy Digital Download Service Extended from your Plugins page (require Easy Digital Downloads plugin) if required plug is not installed and activated, Easy Digital Download Service Extended will not get activated.
-Use shortcode [add_user_comment_edd] in the page ‘Payment confirmation’ already created by the Easy Digital Downloads plugin.
+Activate EDD Service Extended from your Plugins page (require Easy Digital Downloads plugin) if required plug is not installed and activated, Easy Digital Download Service Extended will not get activated.
+Use shortcode [add_user_comment_edd] in the page â€˜Payment confirmationâ€™ already created by the Easy Digital Downloads plugin.
 
 
 == Frequently Asked Questions ==
@@ -35,9 +35,9 @@ How we can show the form in frontend:
 To display the form in the front end use shortcode [add_user_comment_edd] in the page.
 
 == Screenshots ==
-1. After activation a metabox (Initial Message/ Requirement) will be added to the ‘Add Downloads’ admin form, This message will be used as initial message of the conversation on purchasing any service
-2. If “Easy Digital Downloads Frontend Submissions” plugin is used for multi vendors store then (Initial Message/ Requirement) input box will automatically get added to the form.
-3. To display the form in the front end use shortcode [add_user_comment_edd] in the page ‘Payment confirmation’ already created by the Easy Digital Downloads plugin.
+1. After activation a metabox (Initial Message/ Requirement) will be added to the â€˜Add Downloadsâ€™ admin form, This message will be used as initial message of the conversation on purchasing any service
+2. If â€œEasy Digital Downloads Frontend Submissionsâ€ plugin is used for multi vendors store then (Initial Message/ Requirement) input box will automatically get added to the form.
+3. To display the form in the front end use shortcode [add_user_comment_edd] in the page â€˜Payment confirmationâ€™ already created by the Easy Digital Downloads plugin.
 
 == Changelog ==
 = 1.0.0 =
