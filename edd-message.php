@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Easy Digital Download Service Extended
+Plugin Name: EDD Service Extended
 Plugin URI: http://www.wbcomdesigns.com
 Description: Easy Digital Download Message adds message section in the user dashboard for conversation.
 Version: 1.0
